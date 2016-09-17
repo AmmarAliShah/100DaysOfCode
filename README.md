@@ -6,7 +6,7 @@
 
 **Start Date**: June 18, 2016
 
-**Re-Start Date**:
+**Re-Start Date**: September 14, 2016
 
 **End Date**:
 
@@ -23,6 +23,12 @@
  |[Day 03](https://github.com/AmmarAliShah/100DaysOfCode/commit/53161639a8806df246f15dbc9b541faf7df64322)|
 
  |[Day 04](https://github.com/AmmarAliShah/100DaysOfCode/commit/1f2547342fdd2f7d56cfbcd166e2302000b0dfb0)|
+
+ ##### After *Forced* Break
+
+ |[Day 001](https://github.com/AmmarAliShah/100DaysOfCode/commit/1dc650dd28e09265cd41288e8fc5463602bbcd78)| - Sep 14, 2016
+
+ |[Day 002](https://github.com/AmmarAliShah/100DaysOfCode/commit/584d5a35cc557e91bc9c9085e87c521bb8d7a059)| - Sep 16, 2016
 
 ---
 
