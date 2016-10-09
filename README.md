@@ -30,6 +30,8 @@
 
  |[Day 002](https://github.com/AmmarAliShah/100DaysOfCode/commit/584d5a35cc557e91bc9c9085e87c521bb8d7a059)| - Sep 16, 2016
 
+ |[Day 003](https://github.com/AmmarAliShah/100DaysOfCode/commit/456dd0c605e77d41043216b1b0ae45253b513c5b)| - Oct 08, 2016
+
 ---
 
 ### Blog Post Log
