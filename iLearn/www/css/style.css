@@ -1,0 +1,103 @@
+a{
+  text-decoration: none;
+  color: black;
+}
+
+/*About Page*/
+
+/**
+Class Page
+**/
+
+.text {
+  padding: 6em;
+}
+
+.first {
+  height: 50vh;
+  text-align: center;
+  background: #7F95D1;
+}
+
+.second {
+  height: 50vh;
+  text-align: center;
+  background: #FFC0BE;
+}
+
+/**
+Group Page
+**/
+
+.left{
+  float: left;
+  text-align: center;
+  background: blue;
+  width: 50%;
+  height: 100vh;
+}
+
+.right{
+  float: right;
+  text-align: center;
+  background: pink;
+  height: 100vh;
+}
+
+.text{
+  padding-top: 1px;
+}
+
+.container {
+  width: 100%;
+}
+
+/*Subject Grid*/
+#one{
+  background: yellow;
+  text-align: center;
+  padding-bottom: 10%;
+  padding-top: 10%;
+}
+#two{
+  background: blue;
+  text-align: center;
+  padding-bottom: 12%;
+  padding-top: 12%;
+}
+#three{
+  background: green;
+  text-align: center;
+  padding-bottom: 12%;
+  padding-top: 12%;
+}
+#four{
+  background: red;
+  text-align: center;
+  padding-bottom: 12%;
+  padding-top: 12%;
+}
+#five{
+  background: pink;
+  text-align: center;
+  padding-bottom: 12%;
+  padding-top: 12%;
+}
+#six{
+  background: purple;
+  text-align: center;
+  padding-bottom: 12%;
+  padding-top: 12%;
+}
+#seven{
+  background: brown;
+  text-align: center;
+  padding-bottom: 12%;
+  padding-top: 12%;
+}
+#eight{
+  background: violet;
+  text-align: center;
+  padding-bottom: 12%;
+  padding-top: 12%;
+}
