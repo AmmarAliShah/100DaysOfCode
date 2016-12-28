@@ -1,3 +1,5 @@
+/*Universal*/
+
 a{
   text-decoration: none;
   color: black;
@@ -5,59 +7,53 @@ a{
 
 /*About Page*/
 
-/**
-Class Page
-**/
+
+/*Class Page*/
 
 .text {
-  padding: 6em;
+  margin-top: 5em;
+  margin-bottom: 5em;
 }
 
-.first {
+#first {
   height: 50vh;
-  text-align: center;
-  background: #7F95D1;
+  background: url(../img/y1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-bottom: 1px solid black;
 }
 
-.second {
+#second {
   height: 50vh;
-  text-align: center;
-  background: #FFC0BE;
+  background: url(../img/y2.png);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
-/**
-Group Page
-**/
+/*Group Page*/
 
-.left{
-  float: left;
-  text-align: center;
-  background: blue;
-  width: 50%;
-  height: 100vh;
+#left{
+  background: url(../img/sc.png);
+  height: 50vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-bottom: 1px solid black;
 }
 
-.right{
-  float: right;
-  text-align: center;
-  background: pink;
-  height: 100vh;
-}
-
-.text{
-  padding-top: 1px;
-}
-
-.container {
-  width: 100%;
+#right{
+  background: url(../img/cm.jpg);
+  height: 50vh;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 /*Subject Grid*/
 #one{
   background: yellow;
   text-align: center;
-  padding-bottom: 10%;
-  padding-top: 10%;
+  padding-bottom: 12%;
+  padding-top: 12%;
 }
 #two{
   background: blue;
